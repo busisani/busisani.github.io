@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Diploma in Environmental Health, Joshua Mqabuko Nkomo Polytechnic, 2006
+* Bachelor of Science (Honours) in Public Health, National University of Science and Technology, 2015
+* MSc in Geographical Information Systems, University of Leeds, 2020 (expected)
 
 Work experience
 ======
