@@ -18,20 +18,19 @@ Education
 Professional Training
 ======
 * Malaria, Schistosomiasis identification, diagnosis, & prevention,	Jiangsu Institute, China (2019)
-* DHIS2 Android implementation, 	University of Oslo, Norway (2018)
+* DHIS-2 Android implementation, 	University of Oslo, Norway (2018)
 * Community Health Information System (CHIS), 	University of Oslo, Norway (2017)
 * Integrated Disease Surveillance Response (IDSR), 	Harare, Zimbabwe (2017)
 * Planning and Management of Malaria Control Programmes	 Addis Ababa, Ethiopia (2015)
-* Fall 2015: Research Assistant
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Health systems strengthening 
+* Public health surveillance 
+* Health information management systems 
+* Geographic information systems (GIS)
+* Monitoring and Evaluation
+* Project planning and management roles
 
 Publications
 ======
