@@ -8,4 +8,3 @@ date: 2018-11-30
 location: "New Orleans, USA"
 ---
 
-[More information here](http://exampleurl.com)
