@@ -15,17 +15,14 @@ Education
 * Bachelor of Science (Honours) in Public Health, National University of Science and Technology, 2015
 * MSc in Geographical Information Systems, University of Leeds, 2020 (expected)
 
-Work experience
+Professional Training
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
+* Malaria, Schistosomiasis identification, diagnosis, & prevention,	Jiangsu Institute, China (2019)
+* DHIS2 Android implementation, 	University of Oslo, Norway (2018)
+* Community Health Information System (CHIS), 	University of Oslo, Norway (2017)
+* Integrated Disease Surveillance Response (IDSR), 	Harare, Zimbabwe (2017)
+* Planning and Management of Malaria Control Programmes	 Addis Ababa, Ethiopia (2015)
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
