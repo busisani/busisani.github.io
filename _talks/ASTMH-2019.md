@@ -3,7 +3,7 @@ title: "Using travel history data from Zimbabwe’s case-based malaria surveilla
 collection: talks
 type: "ASTMH Poster Presentation"
 permalink: /talks/2013-03-01-tutorial-1
-venue: "National Habour Conference Centre"
+venue: "Gaylord National Resort & Convention Centre"
 date: 2019-11-20
 location: "Maryland, USA"
 ---
