@@ -6,5 +6,5 @@ excerpt: 'Malaria remains a public health problem in Zimbabwe. However, malaria 
 date: 2018-04-03
 venue: 'Malaria Journal 17'
 paperurl: 'https://doi.org/10.1186/s12936-018-2299-0'
-citation: 'Muchena, G., Dube, B., Chikodzore, R. et al. . &quot;A review of progress towards sub-national malaria elimination in Matabeleland South Province, Zimbabwe.&quot; <i>Malaria Journal 17</i>. 1(1).'
+citation: 'Muchena, G., Dube, B., Chikodzore, R. et al. . &quot;A review of progress towards sub-national malaria elimination in Matabeleland South Province, Zimbabwe (2011–2015): a qualitative study. Malar J 17, 146 (2018).&quot; <i>Malaria Journal 17</i>. 1(1).'
 ---
