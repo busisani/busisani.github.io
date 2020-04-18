@@ -1,5 +1,5 @@
 ---
-title: "ommunity-based administration of single low-dose primaquine by trained Village Health Workers in Beitbridge District, Zimbabwe."
+title: "Community-based administration of single low-dose primaquine by trained Village Health Workers in Beitbridge District, Zimbabwe."
 collection: talks
 type: "Poster presentation ASTMH 2018"
 permalink: /talks/2013-03-01-tutorial-1
