@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Busisani Dube"
   avatar           : "profile.png"
-  bio              : "An experience geospatial analyst"
+  bio              : "Harnessing the power of Public Health and Geography"
   location         : "Zimbabwe"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=LwWxy_UAAAAJ"
-  email            :
+  email            :  bussydoc08@gmail.com
   researchgate     :  "https://www.researchgate.net/profile/Busisani_Dube"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
