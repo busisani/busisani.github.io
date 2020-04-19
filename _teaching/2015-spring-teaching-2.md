@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Geospatial Analysis"
 collection: teaching
-type: "Workshop"
+type: "Coordination"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Surveillance, Malaria"
+date: 2018-01-01
+location: "Harare, Zimbabwe"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
