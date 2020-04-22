@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Profile"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,3 +17,9 @@ Technical Skills
 1. dbase:  MySQL, PostgreSQL SQLite 
 1. vis:        ggplot2, Tableau
 1. soft:      ArcGIS, ArcGIS Pro, ENVI, QGIS, SPSS, Tableau, Excel.
+
+Interest
+======
+1. Data Science
+1. code:     R, Python, HTML.
+1. code:     R, Python, HTML.
