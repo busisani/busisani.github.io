@@ -10,11 +10,11 @@ location: "Zimbabwe"
 
 Developing and setting up disease specific and surveillance systems.
 
-Heading 1
+DHIS-2
 ======
 
-Heading 2
+ArcGIS
 ======
 
-Heading 3
+Python
 ======
