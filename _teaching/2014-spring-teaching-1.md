@@ -8,7 +8,7 @@ date: 2015-01-01
 location: "Zimbabwe"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Developing and setting up disease specific and surveillance systems.
 
 Heading 1
 ======
