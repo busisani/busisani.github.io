@@ -22,6 +22,4 @@ Technical Skills
 
 Interest
 ======
-1. Data Science
-1. code:     R, Python, HTML.
-1. code:     R, Python, HTML.
+1. Data Science, Geospatial Technology and Public Health Surveillance
