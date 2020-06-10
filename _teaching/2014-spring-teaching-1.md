@@ -1,6 +1,6 @@
 ---
 title: "Surveillance Associate"
-collection: teaching
+collection: Experience
 type: "Public Health"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Infectious"
