@@ -3,7 +3,7 @@ title: "Health Geographer"
 collection: Experience
 type: "Public Health"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Infectious"
+venue: "Infectious Disease and Geography"
 date: 2009-09-01
 location: "Zimbabwe"
 ---
