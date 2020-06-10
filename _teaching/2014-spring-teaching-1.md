@@ -4,7 +4,7 @@ collection: Experience
 type: "Public Health"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Infectious"
-date: 2015-01-01
+date: 2009-09-01
 location: "Zimbabwe"
 ---
 
