@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Busisani Dube / Professional Profile"
+title                    : "Professional Profile"
 title_separator          : "-"
 name                     : &name "Busisani Dube"
 description              : &description "Health Geographer"
