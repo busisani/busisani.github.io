@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Diploma in Environmental Health, Joshua Mqabuko Nkomo Polytechnic, 2006
-* Bachelor of Science (Honours) in Public Health, National University of Science and Technology, 2015
-* MSc in Geographical Information Systems, University of Leeds, 2020 (expected)
+* Diploma in Environmental Health, Joshua Mqabuko Nkomo Polytechnic
+* Bachelor of Science (Honours) in Public Health, National University of Science and Technology
+* MSc in Geographical Information Systems, University of Leeds
 
 Professional Training
 ======
-* Malaria, Schistosomiasis identification, diagnosis, & prevention,	Jiangsu Institute, China (2019)
+* Malaria, Schistosomiasis Identification, Diagnosis, & Prevention,	Jiangsu Institute, China (2019)
 * DHIS-2 Android implementation, 	University of Oslo, Norway (2018)
 * Community Health Information System (CHIS), 	University of Oslo, Norway (2017)
 * Integrated Disease Surveillance Response (IDSR), 	Harare, Zimbabwe (2017)
